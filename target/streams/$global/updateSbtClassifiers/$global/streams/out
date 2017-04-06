@@ -1,5 +1,6 @@
 [debug] Other repositories:
 [debug] Default repositories:
+[debug] no default cache defined: set to C:\Users\Akshay\.ivy2\cache
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: myfirstsparkproject#myfirstsparkproject$sbt_2.10;1.0
 [debug] 	confs: [default]
@@ -1774,9 +1775,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.13!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
-[debug] :: resolution report :: resolve 706ms :: artifacts dl 18ms
+[debug] :: resolution report :: resolve 2479ms :: artifacts dl 57ms
 [debug] 	report for myfirstsparkproject#myfirstsparkproject$sbt_2.10;1.0 default produced in C:\Users\Akshay\Documents\GitHub\SparkSBT\target\resolution-cache\reports\myfirstsparkproject-myfirstsparkproject$sbt_2.10-default.xml
-[debug] 	resolve done (706ms resolve - 18ms download)
+[debug] 	resolve done (2479ms resolve - 57ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: myfirstsparkproject#myfirstsparkproject$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -2302,6 +2303,6 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.6!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#interface;0.13.13!interface.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#logging;0.13.13!logging.jar(src)
-[debug] :: resolution report :: resolve 147ms :: artifacts dl 16ms
+[debug] :: resolution report :: resolve 277ms :: artifacts dl 63ms
 [debug] 	report for myfirstsparkproject#myfirstsparkproject$sources_2.10;1.0 default produced in C:\Users\Akshay\Documents\GitHub\SparkSBT\target\resolution-cache\reports\myfirstsparkproject-myfirstsparkproject$sources_2.10-default.xml
-[debug] 	resolve done (147ms resolve - 16ms download)
+[debug] 	resolve done (277ms resolve - 63ms download)

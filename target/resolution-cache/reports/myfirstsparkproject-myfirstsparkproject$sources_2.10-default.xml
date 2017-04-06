@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="default"
 		confs="default"
-		date="20170406010401"/>
+		date="20170406104043"/>
 	<dependencies>
 		<module organisation="com.thoughtworks.paranamer" name="paranamer">
 			<revision name="2.6" status="release" pubdate="20131009092654" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="31">

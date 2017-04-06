@@ -9,6 +9,7 @@ class Trial
     .config("spark.some.config.option", "some-value")
     .getOrCreate()
 
+  import spark.implicits._
 
   val df = spark.read.json("C:\\Users\\Akshay\\Documents\\people.json")
 

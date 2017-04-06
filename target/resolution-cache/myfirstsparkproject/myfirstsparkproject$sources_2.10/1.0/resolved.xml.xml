@@ -4,7 +4,7 @@
 		module="myfirstsparkproject$sources_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20170406010401"
+		publication="20170406104043"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
